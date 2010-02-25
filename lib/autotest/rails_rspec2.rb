@@ -72,5 +72,5 @@ Autotest.add_hook :initialize do |at|
   }
 end
 
-class Autotest::RailsRspec < Autotest::Rspec
+class Autotest::RailsRspec2 < Autotest::Rspec
 end
